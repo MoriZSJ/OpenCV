@@ -1,0 +1,14 @@
+For the course 'Photogrammetric Computer Vision' I have to use OpenCV with C++. It is quite complicated to configure OpenCV. So I leave a short notice here. 
+Purpose: Build OpenCV on CLion with CMake and MinGW
+    Date: 2017. 10. 30
+    OS: Win10 64-bit 
+    OpenCV: 3.2.0 vc14
+    CLion: 2017.2.3
+    CMake: cmake-3.8.0-rc1-win64-x64
+    (Download at https://pan.baidu.com/s/1hs1kde8#list/path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8C%85%2FClion_opencv&parentPath=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2F%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8C%85)
+    MinGW: MinGW-W64 7.2.0 (Architecture:x86-64)
+    
+Reference:
+https://www.zhihu.com/question/47331502
+
+Maybe I will add more Details later.....
